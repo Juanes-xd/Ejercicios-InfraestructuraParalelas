@@ -2,7 +2,7 @@ from threading import Thread
 import time
 import numpy as np
 
-vector = range(1,31) # 30 elementos [1, 2, 3, 4, ..., 30]
+vector = range(1,31) #30 elementos [1, 2, 3, 4, ..., 30]
 #MAX_UNITS = 1 # 1 hilo
 #MAX_UNITS = 2 # Hilos
 #MAX_UNITS = len(vector)//4 # Hilos
